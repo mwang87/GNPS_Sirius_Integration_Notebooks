@@ -10,7 +10,7 @@ The notebook can be ran on the cloud via Binder. To start it, just click on the 
 > 
 
 ## Binder Link
-To launch the notebook, clic on the Binder badge below: 
+To launch the notebook, click on the Binder badge below: 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mwang87/GNPS_Sirius_Integration_Notebooks/master)
 
